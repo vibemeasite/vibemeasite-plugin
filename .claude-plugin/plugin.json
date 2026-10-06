@@ -1,5 +1,6 @@
 {
   "name": "vibemeasite",
+  "displayName": "VibeMeASite",
   "version": "1.0.0",
   "description": "Build and run a real, hosted small-business website by talking to Claude: pages, branding, booking, a shop, a blog, translations and publishing, through the VibeMeASite connector.",
   "author": {
@@ -10,5 +11,12 @@
   "homepage": "https://vibemeasite.com/connector",
   "repository": "https://github.com/vibemeasite/vibemeasite-plugin",
   "license": "MIT",
-  "keywords": ["website", "website-builder", "small-business", "booking", "seo", "mcp"]
+  "keywords": [
+    "website",
+    "website-builder",
+    "small-business",
+    "booking",
+    "seo",
+    "mcp"
+  ]
 }
