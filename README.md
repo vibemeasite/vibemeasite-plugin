@@ -33,6 +33,13 @@ These are managed on your account page at [mcp.vibemeasite.com/account](https://
 
 Email [admin@vibemeasite.com](mailto:admin@vibemeasite.com) or use [vibemeasite.com/contact](https://vibemeasite.com/contact).
 
+## Links
+
+- Documentation: [vibemeasite.com/connector](https://vibemeasite.com/connector)
+- Terms of service: [vibemeasite.com/terms](https://vibemeasite.com/terms)
+- Privacy policy: [vibemeasite.com/privacy](https://vibemeasite.com/privacy)
+- Support: [vibemeasite.com/contact](https://vibemeasite.com/contact)
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
